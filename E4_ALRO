@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>lenguajes de programación</h1>
+    <p>
+        sistema estructurado de reglas, símbolos y sintaxis<br>
+        que permite a los desarrolladores escribir instrucciones<br>
+        sistema estructurado de reglas, símbolos y sintaxis que <br>
+        permite a los desarrolladores escribir instrucciones o código para que una computadora ejecute tareas específicas
+    </p>
+    <h2> lenguajes de programación más usados actualmente</h2>
+    <p>
+        Los lenguajes más usados se identifican combinando señales públicas: uso<br>
+        declarado por desarrolladores, actividad en repositorios e interés de aprendizaje.<br>
+        leguajes como: JavaScript, TypeScript, HTML y CSS, SQL, etc., son los mas usados
+    </p>
+    <h3>JavaScript</h3>
+    <p>JavaScript es el lenguaje central del desarrollo web: corre en el navegador y también puede usarse del lado del servidor.<br>
+    Dónde se usa:<br>
+    -Interfaz web (formularios, componentes, interacción, accesibilidad). <br>
+    -Aplicaciones web completas (cuando se combina con backends y APIs). <br>
+    -Prototipos funcionales, pruebas de concepto y herramientas internas. 
+    </p>
+</body>
+</html>
