@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 1</title>
+</head>
+<body>
+    <h1>Partes de la computadota</h1>
+    <p>Procesador (CPU) - Tarjeta madre - Memoria RAM - Disco duro o SSD - Tarjeta gráfica - Fuente de alimentación - Monitor o pantalla - Teclado - Mouse - case</p>
+</body>
+</html>
